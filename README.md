@@ -7,4 +7,4 @@ Kullanicin belirledigi nokta acilir. Eger nokta temizse etrafindaki mayin bilgis
 **Dikkat Edilmesi Gerekenler**
 - Tarla boyutu en az 2x2 boyutunda olusturulmalidir. Daha kucuk tarlalarda oyun sonlanir.
 - Tarla (satir * sutun) / 4 sonucun tamsayi kismi kadar mayin icerir.
-- Acilmak istenen nokta tarla sinirlari icerisinde olmalidir. İlk elemanin 0'dan basladigi goz onunde bulundurulmalidir. Hatali giris yapildiginda oyun sonlanmaz. Yeni giris yapilmasi istenir.
+- Acilmak istenen nokta tarla sinirlari icerisinde olmalidir. İlk elemanin 0'dan basladigi goz onunde bulundurulmalidir. Hatali giris yapildiginda oyun sonlanmaz. Yeni giris yapilmasi istenir
